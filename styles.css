@@ -2,7 +2,7 @@
 
 /* Selector para el cuerpo de la página */
 body {
-    background-color: light pink; /* Color de fondo azul claro */
+    background-color: #FF69B4; /* Color de fondo azul claro */
     font-family: Arial, sans-serif; /* Tipo de letra */
     text-align: center; /* Todo el texto centrado */
 }
