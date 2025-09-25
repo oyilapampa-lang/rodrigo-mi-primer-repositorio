@@ -9,7 +9,7 @@ body {
 
 /* Selector para los encabezados H1 */
 h1 {
-    color: red; /* Color del texto azul oscuro */
+    color: black; /* Color del texto azul oscuro */
     border-bottom: 2px solid navy; /* Una línea azul debajo */
     padding-bottom: 10px;
 }
