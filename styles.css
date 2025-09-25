@@ -1,0 +1,15 @@
+/* Esto es un comentario en CSS */
+
+/* Selector para el cuerpo de la página */
+body {
+    background-color: #f0f8ff; /* Color de fondo azul claro */
+    font-family: Arial, sans-serif; /* Tipo de letra */
+    text-align: center; /* Todo el texto centrado */
+}
+
+/* Selector para los encabezados H1 */
+h1 {
+    color: navy; /* Color del texto azul oscuro */
+    border-bottom: 2px solid navy; /* Una línea azul debajo */
+    padding-bottom: 10px;
+}
