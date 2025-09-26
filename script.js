@@ -8,3 +8,14 @@ window.onload = function() {
     // La función 'alert()' crea la ventana emergente en el navegador:
     alert(mensaje);
 };
+function verificarEdad(){
+    var edad = prompt ("Por favor, ingresa tu edad");
+     if (edad !== null && parseInt(edad) >= 18) {
+        alert("¡Acceso concedido! Disfruta del Casino.");
+         window.location.href= "https://www.casinoclubonline.bet.ar";
+     }else if (edad !==null && parseInt(edad) <=18){
+         alert ("¡Acceso denegado, debes ser mayor de 18 años para ingresar");
+     } else {
+         alert("Acceso denegado");
+     }
+}
