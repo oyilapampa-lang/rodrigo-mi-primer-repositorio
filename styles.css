@@ -18,3 +18,10 @@ figure {
     margin: 30px auto; 
     max-width: 600px; 
 }
+.destacado{
+    font-family: Arial, sans-serif; /* Cambiamos la tipografía */
+    font-size: 1.1em;             /* Lo hacemos un poco más grande */
+    color: #FFD700;               /* Color Dorado, para que resalte */
+    font-weight: bold;            /* Texto en negrita */
+    margin: 15px 0;               /* Le damos un poco de margen vertical */
+}
