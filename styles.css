@@ -25,3 +25,21 @@ figure {
     font-weight: bold;            /* Texto en negrita */
     margin: 15px 0;               /* Le damos un poco de margen vertical */
 }
+.pie-pagina{
+    background-color: #1a1a1a; /* Un gris oscuro o casi negro */
+    color: #f0f0f0; /* Texto blanco suave */
+    text-align: center; /* Centra el texto dentro del footer */
+    padding: 20px 0; /* Espacio arriba y abajo */
+    width: 100%; /* Asegura que ocupe todo el ancho */
+    position: fixed; /* Mantiene la posición fija */
+    bottom: 0; /* Lo pega al borde inferior */
+    /* Para asegurar que esté por encima de algunos elementos (como el alert) */
+    z-index: 5;
+}
+
+/* Estilo para los párrafos dentro del footer (más pequeños) */
+.pie-pagina p {
+    margin: 5px 0;
+    font-size: 0.85em;
+    
+}
