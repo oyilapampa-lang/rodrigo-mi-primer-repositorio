@@ -42,9 +42,10 @@ figure {
     margin: 5px 0;
     font-size: 0.85em; 
 }
-.encabezado-principa{
+.encabezado-principal{
 background-color: #1a1a1a; /* Mismo color oscuro que el pie de página para simetría */
     padding: 15px 0 10px 0; /* Espacio interno arriba/abajo */
     text-align: center; /* Centra todo el contenido (h1 y hr) */
     width: 100%; /* Ocupa todo el ancho */
+    
 }
