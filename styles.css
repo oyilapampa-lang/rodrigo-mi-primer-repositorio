@@ -52,3 +52,10 @@ background-color: #52d9c2; /* Mismo color oscuro que el pie de página para sime
 .oculto{
     display: none;
 }
+.main-content{
+     display: flex; /* Activa Flexbox para alineación horizontal */
+    justify-content: center; /* Centra el contenido horizontalmente */
+    align-items: flex-start; /* Alinea los elementos a la parte superior */
+    padding: 30px 20px;
+}
+}
