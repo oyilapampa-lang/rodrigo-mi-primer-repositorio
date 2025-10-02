@@ -47,6 +47,8 @@ background-color: #52d9c2; /* Mismo color oscuro que el pie de página para sime
     padding: 15px 0 10px 0; /* Espacio interno arriba/abajo */
     text-align: center; /* Centra todo el contenido (h1 y hr) */
     width: 100%; /* Ocupa todo el ancho */
-    display: block; 
-    
+    display: block;
+}
+.oculto{
+    display: none;
 }
