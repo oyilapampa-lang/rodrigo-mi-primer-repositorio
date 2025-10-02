@@ -59,3 +59,11 @@ background-color: #52d9c2; /* Mismo color oscuro que el pie de página para sime
     padding: 30px 20px;
 }
 }
+.menu-juegos {
+    /* Quitamos el text-align: center que teníamos */
+    display: flex;
+    flex-direction: column; /* Apila los botones de forma vertical (columna) */
+    gap: 15px; /* Espacio entre los botones */
+    padding: 0 40px;
+    margin: 0;
+}
